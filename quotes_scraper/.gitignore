@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Scrapy
+.scrapy/
+
+# Datos temporales (mantener solo transformados)
+*_data.json
+*_data.csv
+
+# Archivos de documentación temporal eliminados
+INSTALACION.md
+README_ETAPA2.md
+RESUMEN_ETAPA2.md
+run_extraction.py
+test_extraction.py
+catalog_unified.csv

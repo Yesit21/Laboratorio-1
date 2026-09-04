@@ -1,0 +1,3 @@
+fuente,tipo_fuente,url,total_productos,porcentaje,laptops,libros,precio_promedio,calificacion_promedia
+Books to Scrape,libros,https://books.toscrape.com/,1000,89.53,0,1000,35.07,2.92
+WebScraper - Laptops,tecnologia,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops,117,10.47,117,0,909.39,2.34

@@ -1,0 +1,4 @@
+tipo,total_productos,calificacion_promedia,calificacion_minima,calificacion_maxima,total_5_estrellas,total_1_estrella
+laptop,117,2.34,1,4,0,37
+libro,1000,2.92,1,5,196,226
+GENERAL,1117,2.86,1,5,196,263

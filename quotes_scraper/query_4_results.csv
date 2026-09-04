@@ -1,0 +1,6 @@
+producto,tipo,precio,moneda,calificacion,fuente,descripcion
+Asus ROG Strix SCAR Edition GL503VM-ED115T,laptop,1799,$,3,WebScraper - Laptops,"Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6"" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home"
+Asus ROG Strix GL702ZC-GC209T,laptop,1769,$,1,WebScraper - Laptops,"Asus ROG Strix GL702ZC-GC209T, 17.3"" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home"
+Asus ROG Strix GL702ZC-GC154T,laptop,1769,$,4,WebScraper - Laptops,"Asus ROG Strix GL702ZC-GC154T, 17.3"" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home"
+Asus ROG Strix GL702VM-GC146T,laptop,1399,$,3,WebScraper - Laptops,"Asus ROG Strix GL702VM-GC146T, 17.3"" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd"
+Lenovo Legion Y720,laptop,1399,$,3,WebScraper - Laptops,"Lenovo Legion Y720, 15.6"" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard"

@@ -1,0 +1,21 @@
+id_producto,producto,tipo,precio,moneda,calificacion,fuente,url_fuente
+1,Asus VivoBook X441NA-GA190,laptop,295.99,$,3,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+2,Prestigio SmartBook 133S Dark Grey,laptop,299.0,$,2,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+3,Prestigio SmartBook 133S Gold,laptop,299.0,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+4,Aspire E1-510,laptop,306.99,$,3,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+5,Lenovo V110-15IAP,laptop,321.94,$,3,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+6,Lenovo V110-15IAP,laptop,356.49,$,2,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+7,Hewlett Packard 250 G6 Dark Ash Silver,laptop,364.46,$,1,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+8,Acer Aspire 3 A315-31 Black,laptop,372.7,$,2,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+9,Acer Aspire A315-31-C33J,laptop,379.94,$,2,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+10,Acer Aspire ES1-572 Black,laptop,379.95,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+11,Acer Aspire 3 A315-31 Black,laptop,391.48,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+12,Acer Aspire 3 A315-21,laptop,393.88,$,3,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+13,Asus VivoBook Max,laptop,399.0,$,1,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+14,Asus VivoBook E502NA-GO022T Dark Blue,laptop,399.99,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+15,Lenovo ThinkPad E31-80,laptop,404.23,$,1,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+16,Acer Aspire 3 A315-31 Black,laptop,408.98,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+17,Lenovo V110-15ISK,laptop,409.63,$,3,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+18,Acer Aspire ES1-732 Black,laptop,410.46,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+19,Asus VivoBook 15 X540NA-GQ026T,laptop,410.66,$,4,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+20,Packard 255 G2,laptop,416.99,$,2,WebScraper - Laptops,https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
